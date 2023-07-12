@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErMch1kk
+- 👋 Hi, I’m @ermch1kk
 - 👀 I’m interested in :  Python codding
 - 🌱 I’m currently learning : Python language and disnake library
 - 💞️ I’m looking to collaborate : on Disnake programming
