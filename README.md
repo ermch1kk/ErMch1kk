@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ermch1kk
-- 👀 I’m interested in :  Python codding
+- 👀 I’m interested in :  Python coding
 - 🌱 I’m currently learning : Python language and disnake library
 - 💞️ I’m looking to collaborate : on Disnake programming
 - 📫 How to reach me : discord - ermch1kk, telegram - @ermch1kk
